@@ -1,0 +1,2 @@
+# Portfolio-Optimization-Formulization
+Worked on Stocks previous prices of  Apple ,Cisco, IBM, Amazon  in order to predict the value of Sharpe ratio(understand the return of an investment compared to its risk. The ratio is the average return earned in excess of the risk-free rate per unit of volatility or total risk)to suggest what is the optimized percentage need to be invested in individual Stock.
